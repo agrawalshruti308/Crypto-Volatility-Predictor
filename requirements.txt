@@ -1,0 +1,22 @@
+boto3
+botocore-stubs
+dill
+dnspython
+evidently
+fastapi
+from-root
+httptools
+imblearn (imbalanced-learn)
+mypy-boto3-s3
+pip-chill
+pymongo
+Jinja2
+python-dotenv
+types-s3transfer
+uvicorn
+watchfiles
+websockets
+wincertstore
+xgboost
+python-multipart
+neuro_mf
